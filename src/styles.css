@@ -1,6 +1,8 @@
 body {
   background-color: #9bd6d8;
   text-align: center;
+  max-width: 100%;
+  height: auto;
 }
 
 .wiki:hover{
